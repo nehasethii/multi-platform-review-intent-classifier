@@ -12,7 +12,6 @@
 * [Future Scope](#future-scope)
 * [Quick Setup & Run](#quick-setup--run)
 * [Contributions](#contributions)
-* [License](#license)
 * [Contact](#contact)
 
 ---
