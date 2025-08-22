@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+dataset/raw/*
+dataset/processed/*
+data/*
+*.csv
+
+# Models
+models/saved/*
+*.pkl
+
+# Streamlit
+.streamlit/
