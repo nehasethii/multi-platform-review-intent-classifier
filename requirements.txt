@@ -1,5 +1,12 @@
 streamlit
 pandas
-requests
-beautifulsoup4
+numpy
+scikit-learn
+imblearn
+joblib
+nltk
+regex
+matplotlib
 plotly
+seaborn
+tqdm
